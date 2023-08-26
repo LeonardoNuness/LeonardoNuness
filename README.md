@@ -10,4 +10,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardonuness&show_icons=true&locale=en" alt="leonardonuness" /></p>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/LeonardoNuness)
+
