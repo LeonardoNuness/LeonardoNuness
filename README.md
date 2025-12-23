@@ -1,40 +1,34 @@
-
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software
-- 🎓 Estudando Desenvolvimento de Sistemas no COTIL
-- 💼 Trabalhando como Front end
-
-##
-
-<div align="left">
-  <h3 align="left">Skills</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+<div align="center">
+  <h1>👋 Olá, eu sou o Leonardo</h1>
 </div>
 
-<div align="left">
-  <h3 align="left">Contact</h3>
+<div align="center">
   <a href="https://www.linkedin.com/in/leonardonunesdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
   <a href="mailto:Leoonardoo.nuness.7@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
-##
+<br>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript" />
+        <img  alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,git" />
+</div>
+
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoNuness&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonardoNuness&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A9A9A9&text_color=A9A9A9&icon_color=58a6ff" />
 </div>
+
+<br>
 
